@@ -8,6 +8,7 @@
 
 <hr/>
 
+<h5>Using</h5>
 ![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?logo=iTerm2&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
@@ -17,6 +18,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
+<h5>Powered by</h5>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -30,7 +32,9 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white)
-<br/>
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white)
+
+<h5>Apps</h5>
 ![CodePen](https://img.shields.io/badge/CodePen-000000.svg?logo=codePen&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stack-overflow&logoColor=white)
