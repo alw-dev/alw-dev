@@ -15,10 +15,12 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?logo=iTerm2&logoColor=white)
 ![MAMP](https://img.shields.io/badge/-MAMP-02749C?style=flat&logo=mamp)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira)
+![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat&logo=FileZilla)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-DA1F26?logo=Adobe-Creative-Cloud&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Toggl](https://img.shields.io/badge/Toggl-E01B22?logo=toggl)
+
 
 <h5>Powered by</h5>
 
@@ -44,6 +46,7 @@
 
 <h5>Apps</h5>
 
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira)
 ![CodePen](https://img.shields.io/badge/CodePen-000000.svg?logo=codePen&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stack-overflow&logoColor=white)
