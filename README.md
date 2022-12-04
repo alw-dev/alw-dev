@@ -1,12 +1,9 @@
-
 <h2>👋&nbsp;&nbsp;Hello, I'm Alex</h2>
 <h4>Digitial Designer + Frontend Developer</h4>
 
-
 🏡&nbsp;&nbsp;Birmingham, UK<br/>
-📍&nbsp;&nbsp;Melbourne, Australia
-
-
+📍&nbsp;&nbsp;Melbourne, Australia<br/>
+🏢&nbsp;&nbsp;Currently working with <a href="https://studioalt.com.au/" target="_blank">Studio Alt</a>
 
 <hr/>
 <h5>Uses</h5>
@@ -22,7 +19,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Toggl](https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white)
-
 
 <h5>Powered by</h5>
 
@@ -53,7 +49,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stack-overflow&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21.svg?logo=Lighthouse&logoColor=white)
-
 
 <!--
 - 👋 Hi, I’m @alw-codebase
