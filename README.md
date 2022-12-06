@@ -8,17 +8,17 @@
 <hr/>
 <h5>Uses</h5>
 
-![MacBook Pro](https://img.shields.io/badge/Apple-100000.svg?logo=apple&logoColor=white)
-![iPhone](https://img.shields.io/badge/iPhone-100000.svg?logo=iOS&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?logo=iTerm2&logoColor=white)
-![MAMP](https://img.shields.io/badge/MAMP-02749C?style=flat&logo=mamp&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-DA1F26?logo=Adobe-Creative-Cloud&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-![Toggl](https://img.shields.io/badge/Toggl-E01B22?logo=toggl&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/Apple-f6f8fa.svg?logo=apple&logoColor=100000)
+![iPhone](https://img.shields.io/badge/iPhone-f6f8fa.svg?logo=iOS&logoColor=100000)
+![GitHub](https://img.shields.io/badge/GitHub-f6f8fa.svg?logo=github&logoColor=100000)
+![VS Code](https://img.shields.io/badge/VS%20Code-f6f8fa?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![iTerm2](https://img.shields.io/badge/iTerm2-f6f8fa.svg?logo=iTerm2&logoColor=000000)
+![MAMP](https://img.shields.io/badge/MAMP-f6f8fa?style=flat&logo=mamp&logoColor=02749C)
+![FileZilla](https://img.shields.io/badge/FileZilla-f6f8fa?style=flat&logo=FileZilla&logoColor=BF0000)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-f6f8fa?logo=Adobe-Creative-Cloud&logoColor=DA1F26)
+![Figma](https://img.shields.io/badge/Figma-f6f8fa?logo=figma&logoColor=F24E1E)
+![Slack](https://img.shields.io/badge/Slack-f6f8fa?logo=slack&logoColor=4A154B)
+![Toggl](https://img.shields.io/badge/Toggl-f6f8fa?logo=toggl&logoColor=E01B22)
 
 <h5>Powered by</h5>
 
@@ -44,11 +44,11 @@
 
 <h5>Apps</h5>
 
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?logo=jira)
-![CodePen](https://img.shields.io/badge/CodePen-000000.svg?logo=codePen&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stack-overflow&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21.svg?logo=Lighthouse&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-f6f8fa?logo=jira&logoColor=0052CC)
+![CodePen](https://img.shields.io/badge/CodePen-f6f8fa.svg?logo=codePen&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-f6f8fa.svg?logo=postman&logoColor=FF6C37)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f6f8fa.svg?logo=stack-overflow&logoColor=F58025)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-f6f8fa.svg?logo=Lighthouse&logoColor=F44B21)
 
 <!--
 - 👋 Hi, I’m @alw-codebase
