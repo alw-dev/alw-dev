@@ -19,6 +19,11 @@
 ![Figma](https://img.shields.io/badge/Figma-f6f8fa?logo=figma&logoColor=F24E1E)
 ![Slack](https://img.shields.io/badge/Slack-f6f8fa?logo=slack&logoColor=4A154B)
 ![Toggl](https://img.shields.io/badge/Toggl-f6f8fa?logo=toggl&logoColor=E01B22)
+![JIRA](https://img.shields.io/badge/JIRA-f6f8fa?logo=jira&logoColor=0052CC)
+![CodePen](https://img.shields.io/badge/CodePen-f6f8fa.svg?logo=codePen&logoColor=000000)
+![Postman](https://img.shields.io/badge/Postman-f6f8fa.svg?logo=postman&logoColor=FF6C37)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f6f8fa.svg?logo=stack-overflow&logoColor=F58025)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-f6f8fa.svg?logo=Lighthouse&logoColor=F44B21)
 
 <h5>Powered by</h5>
 
@@ -41,14 +46,6 @@
 ![WP Engine](https://img.shields.io/badge/WP%20Engine-0ECAD4.svg?logo=WPEngine&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00.svg?logo=zapier&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white)
-
-<h5>Apps</h5>
-
-![JIRA](https://img.shields.io/badge/JIRA-f6f8fa?logo=jira&logoColor=0052CC)
-![CodePen](https://img.shields.io/badge/CodePen-f6f8fa.svg?logo=codePen&logoColor=000000)
-![Postman](https://img.shields.io/badge/Postman-f6f8fa.svg?logo=postman&logoColor=FF6C37)
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-f6f8fa.svg?logo=stack-overflow&logoColor=F58025)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-f6f8fa.svg?logo=Lighthouse&logoColor=F44B21)
 
 <!--
 - 👋 Hi, I’m @alw-codebase
