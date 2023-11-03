@@ -1,6 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
-
-<h2 style="font-family: 'Roboto Mono', monospace;">👋&nbsp;&nbsp;Hello, I'm Alex</h2>
+<h2>👋&nbsp;&nbsp;Hello, I'm Alex</h2>
 <h4>Digitial Designer + Frontend Developer</h4>
 
 📍&nbsp;&nbsp;Melbourne, Australia<br/>
