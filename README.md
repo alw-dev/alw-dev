@@ -1,6 +1,9 @@
 <h2>👋&nbsp;&nbsp;Hello, I'm Alex</h2>
 <h4>Digitial Designer + Frontend Developer</h4>
 
+📍&nbsp;&nbsp;Melbourne, Australia<br/>
+🏢&nbsp;&nbsp;Currently working with <a href="https://studioalt.com.au/" target="_blank">Studio Alt</a>
+
 <hr/>
 <h5>Uses</h5>
 
