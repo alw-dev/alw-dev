@@ -6,9 +6,6 @@
 
 <hr/>
 
-<img src="https://readme-stats-app-alw-codebases-projects.vercel.app/api?username=alw-codebase&custom_title=Stats&number_format=long&include_all_commits=true&title_color=0a69da&&border_color=d0d7de&border_radius=0">
-
-<hr/>
 <h5>Uses</h5>
 
 ![MacBook Pro](https://img.shields.io/badge/Apple-f6f8fa.svg?logo=apple&logoColor=100000)
