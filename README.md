@@ -4,6 +4,8 @@
 📍&nbsp;&nbsp;Melbourne, Australia<br/>
 🏢&nbsp;&nbsp;Currently working with <a href="https://studioalt.com.au/" target="_blank">Studio Alt</a>
 
+![Anurag's GitHub stats](https://readme-stats-app-alw-codebases-projects.vercel.app/api?username=alw-codebase)
+
 <hr/>
 <h5>Uses</h5>
 
