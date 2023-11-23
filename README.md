@@ -29,6 +29,8 @@
         <img src="https://img.shields.io/badge/Postman-f6f8fa.svg?logo=postman&logoColor=FF6C37">
         <img src="https://img.shields.io/badge/Stack%20Overflow-f6f8fa.svg?logo=stack-overflow&logoColor=F58025">
         <img src="https://img.shields.io/badge/Lighthouse-f6f8fa.svg?logo=Lighthouse&logoColor=F44B21">
+        <img src="https://img.shields.io/badge/Bitwarden-f6f8fa.svg?logo=bitwarden&logoColor=175DDC">
+        <img src="https://img.shields.io/badge/NordVPN-f6f8fa.svg?logo=nordvpn&logoColor=4687FF">
       </td>
       <td width="50%">
         <small><b>Powered by</b></small>
