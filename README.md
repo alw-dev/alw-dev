@@ -18,6 +18,7 @@
         <img src="https://img.shields.io/badge/VS%20Code-f6f8fa?style=flat&logo=visual-studio-code&logoColor=007ACC">
         <img src="https://img.shields.io/badge/iTerm2-f6f8fa.svg?logo=iTerm2&logoColor=000000">
         <img src="https://img.shields.io/badge/MAMP-f6f8fa?style=flat&logo=mamp&logoColor=02749C">
+        <img src="https://img.shields.io/badge/Local-f6f8fa?style=flat&logo=local&logoColor=51BB7B">
         <img src="https://img.shields.io/badge/FileZilla-f6f8fa?style=flat&logo=FileZilla&logoColor=BF0000">
         <img src="https://img.shields.io/badge/Adobe-f6f8fa?logo=Adobe-Creative-Cloud&logoColor=DA1F26">
         <img src="https://img.shields.io/badge/Figma-f6f8fa?logo=figma&logoColor=F24E1E">
