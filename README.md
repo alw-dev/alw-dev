@@ -10,7 +10,8 @@
   <tbody>
     <tr>
       <td width="50%">
-        <h5>Uses</h5>
+        <b>Uses</b>
+        <br/><br/>
         <img src="https://img.shields.io/badge/Apple-f6f8fa.svg?logo=apple&logoColor=100000">
         <img src="https://img.shields.io/badge/iPhone-f6f8fa.svg?logo=iOS&logoColor=100000">
         <img src="https://img.shields.io/badge/GitHub-f6f8fa.svg?logo=github&logoColor=100000">
@@ -29,7 +30,8 @@
         <img src="https://img.shields.io/badge/Lighthouse-f6f8fa.svg?logo=Lighthouse&logoColor=F44B21">
       </td>
       <td width="50%">
-        <h5>Powered by</h5>
+        <small><b>Powered by</b></small>
+        <br/><br/>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white">
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
