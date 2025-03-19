@@ -43,6 +43,7 @@
         <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-black.svg?logo=next.js&logoColor=white">
         <img src="https://img.shields.io/badge/-Webpack-007ACC?style=flat&logo=webpack&logoColor=white">
         <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white">
         <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white">
@@ -53,6 +54,10 @@
         <img src="https://img.shields.io/badge/WP%20Engine-0ECAD4.svg?logo=WPEngine&logoColor=white">
         <img src="https://img.shields.io/badge/Zapier-FF4A00.svg?logo=zapier&logoColor=white">
         <img src="https://img.shields.io/badge/Shopify-7AB55C.svg?logo=shopify&logoColor=white">
+        <img src="https://img.shields.io/badge/Hostinger-673DE6.svg?logo=hostinger&logoColor=fff">
+        <img src="https://img.shields.io/badge/Sanity-F03E2F.svg?&logo=sanity&logoColor=white">
+        <img src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+        <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
       </td>
     </tr>
   </tbody>
