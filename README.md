@@ -1,4 +1,4 @@
-<h2>👋&nbsp;&nbsp;Hello, I'm Alex</h2>
+<h2>👋&nbsp;&nbsp;Hey, I'm Alex</h2>
 <h4>Digitial Designer + Frontend Developer</h4>
 
 📍&nbsp;&nbsp;Melbourne, Australia<br/>
