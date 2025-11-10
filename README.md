@@ -1,7 +1,8 @@
 <h2>👋&nbsp;&nbsp;Hey, I'm Alex</h2>
 <h4>Digitial Designer + Frontend Developer</h4>
 
-📍&nbsp;&nbsp;Melbourne, Australia<br/>
+📍&nbsp;&nbsp;Location: Melbourne, Australia<br/>
+🧑‍💻&nbsp;&nbsp;Role: Senior Front End Engineer at [DotCollective](https://dotcollective.com.au/)<br/>
 
 <hr/>
 
